@@ -1,0 +1,13 @@
+{
+  "name": "aibrowser",
+  "version": "1.0.0",
+  "description": "Containerized Playwright website automation",
+  "main": "automation.js",
+  "scripts": {
+    "start": "node automation.js",
+    "test": "node automation.js"
+  },
+  "dependencies": {
+    "playwright": "1.64.1"
+  }
+}
